@@ -28,8 +28,11 @@ Acoustics
 - pressure wave equation derivatioon through mass conservation and euler equations; similarly for velocity wave equation
 - speed of sound relations
 
+
  Shock
+ 
  Mach number
+ 
  Supersonic flow past an object
 
  
