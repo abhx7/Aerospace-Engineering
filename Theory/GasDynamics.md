@@ -39,6 +39,7 @@ Supersonic flow past an object - Compression Shocks and Expansion Waves
 
 ## Variable area flows 
 Conservation of mass in a 'slice' 
+
 ![Equation](https://quicklatex.com/cache3/e7/ql_00a8a4fab128f4b1415fc985dcc1d6e7_l3.png)
 
 - Use isentropic and 1D euler equation to show change in density and velocity with change in area depending on if it is supersonic or subsonic flow.
@@ -46,7 +47,20 @@ Conservation of mass in a 'slice'
 - If area is decreasing, for subsonic flow, velocity increases and density decreases and vice versa for supersonic flow
 - If no area change (at throat of the CD nozzle), at sonic speed there is a finite change in velocity, it is a Laval nozzle and if M is not equal to 1, there is no velocity change, it is a Venturi nozzle
 
-Isentropic perfect gas relations for pressure, temperature and density betweent the static and stagnation quantites
+Isentropic perfect gas relations among pressure, temperature and density between the static and stagnation quantites and for each with Mach number and specific gas constant.
+
+Values of pressure and temperature ratios at sonic condition. Also the relation to area ratio.
+
+Pressure drops as fluid flows through nozzle due to increase in M. When this hits a limit at infinity, there is a finite flow speed, the maximum possible (in an inviscid steady state flow) [Equation]. (2 ways to derive)
+
+# Converging nozzle
+Pressure ratio variation curves
+
+# Bernoulli's for compressible flow
+
+the equations, starting point of derivations and assumptions
+
+
 
 
 
