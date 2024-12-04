@@ -53,10 +53,10 @@ Values of pressure and temperature ratios at sonic condition. Also the relation 
 
 Pressure drops as fluid flows through nozzle due to increase in M. When this hits a limit at infinity, there is a finite flow speed, the maximum possible (in an inviscid steady state flow) [Equation]. (2 ways to derive)
 
-# Converging nozzle
+## Converging nozzle
 Pressure ratio variation curves
 
-# Bernoulli's for compressible flow
+## Bernoulli's for compressible flow
 
 the equations, starting point of derivations and assumptions
 
