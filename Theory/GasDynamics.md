@@ -34,6 +34,7 @@ Shock
 Mach number, Mach cone, Zone of Influence and Zone of Silence
 
 Wave equations and causality
+![Link](https://youtu.be/YWOeOi6q62s?si=9mzgQHopWJK-r9Np)
 
 Supersonic flow past an object - Compression Shocks and Expansion Waves
 
