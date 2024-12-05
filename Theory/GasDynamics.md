@@ -33,8 +33,7 @@ Shock
 
 Mach number, Mach cone, Zone of Influence and Zone of Silence
 
-Wave equations and causality
-![Link](https://youtu.be/YWOeOi6q62s?si=9mzgQHopWJK-r9Np)
+Wave equations and causality - https://youtu.be/YWOeOi6q62s?si=9mzgQHopWJK-r9Np
 
 Supersonic flow past an object - Compression Shocks and Expansion Waves
 
@@ -44,6 +43,9 @@ Conservation of mass in a 'slice'
 ![Equation](https://quicklatex.com/cache3/e7/ql_00a8a4fab128f4b1415fc985dcc1d6e7_l3.png)
 
 - Use isentropic and 1D euler equation to show change in density and velocity with change in area depending on if it is supersonic or subsonic flow.
+  ```math
+  \frac{du}{u} = \frac{1}{1-M^2} \frac{dA}{A}
+  ```
 - If area is increasing, for subsonic flow, velocity decreases and density increases and vice versa for supersonic flow
 - If area is decreasing, for subsonic flow, velocity increases and density decreases and vice versa for supersonic flow
 - If no area change (at throat of the CD nozzle), at sonic speed there is a finite change in velocity, it is a Laval nozzle and if M is not equal to 1, there is no velocity change, it is a Venturi nozzle
