@@ -64,6 +64,9 @@ Pressure ratio variation curves
 the equations, starting point of derivations and assumptions
 
 
+## Rayleigh flow
+
+## Fanno flow
 
 
 
