@@ -40,7 +40,7 @@ Supersonic flow past an object - Compression Shocks and Expansion Waves
 ## Variable area flows 
 Conservation of mass in a 'slice' 
 
-$\frac{\partial}{\partial x} (\rho u A)$
+$$\frac{\partial}{\partial x} (\rho u A)$$
 
 - Use isentropic and 1D euler equation to show change in density and velocity with change in area depending on if it is supersonic or subsonic flow.
   ```math
