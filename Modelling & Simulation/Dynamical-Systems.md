@@ -2,17 +2,17 @@
 
 ## Key Topics to Learn
 
--Simulink Fundamentals
-  -Introduction to Simulink environment
-  -Blocks and libraries
-  -Creating and simulating basic models
--Simscape Basics
-  -Physical modeling concepts
-  -Simscape libraries for mechanical, electrical, and fluid systems
-  -Building multi-domain physical systems
-  -Common Applications
--Dynamic system modeling
-  -System-level simulations
+- Simulink Fundamentals
+  - Introduction to Simulink environment
+  - Blocks and libraries
+  - Creating and simulating basic models
+- Simscape Basics
+  - Physical modeling concepts
+  - Simscape libraries for mechanical, electrical, and fluid systems
+  - Building multi-domain physical systems
+  - Common Applications
+- Dynamic system modeling
+  - System-level simulations
 
 ## Learning Resources
 
