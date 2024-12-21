@@ -20,7 +20,7 @@
 ## Learning Resources
 
 Books:
-- !(link)(“Aircraft Systems: Mechanical, Electrical, and Avionics Subsystems Integration” by Ian Moir and Allan Seabridge)[https://github.com/abhx7/Aerospace-Engineering/blob/main/Aircrafts/Aircraft%20Systems%20Mechanical%2C%20Electrical%2C%20and%20Avionics%20Subsystems%20Integration%20-%20Ian%20Moir%20and%20Allan%20Seabridge.pdf]
+- [“Aircraft Systems: Mechanical, Electrical, and Avionics Subsystems Integration” by Ian Moir and Allan Seabridge](https://github.com/abhx7/Aerospace-Engineering/blob/main/Aircrafts/Aircraft%20Systems%20Mechanical%2C%20Electrical%2C%20and%20Avionics%20Subsystems%20Integration%20-%20Ian%20Moir%20and%20Allan%20Seabridge.pdf)
 
 Videos:
 - Watch technical walkthroughs of aircraft systems on YouTube or aerospace channels.
