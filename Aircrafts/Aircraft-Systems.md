@@ -1,6 +1,6 @@
 # Aircraft Systems
 
-## Key Topics to Learn
+## Key Topics
 
 - Flight Control Systems
   - Primary controls: Ailerons, elevator, rudder
