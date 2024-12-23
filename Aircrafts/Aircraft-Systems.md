@@ -6,6 +6,10 @@
   - Primary controls: Ailerons, elevator, rudder
   - Secondary controls: Flaps, slats, spoilers
   - Fly-by-wire systems
+ 
+- Engine Control Systems
+
+- Fuel Systems
 
 - Landing Gear Systems
   - Types of landing gears
@@ -13,10 +17,13 @@
   - Shock absorption and braking systems
 
 - Other Aircraft Systems
-  - Hydraulic and electrical systems
-  - Environmental control systems (ECS)
+  - Hydraulic systems
   - Avionics and navigation systems
-
+  - Electrical systems 
+  - Pneumatic systems
+  - Environmental control systems (ECS)
+  - Emergency systems
+  
 ## Learning Resources
 
 Books:
