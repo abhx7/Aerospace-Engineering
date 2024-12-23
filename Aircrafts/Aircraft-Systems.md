@@ -5,7 +5,7 @@
 - System Integration
 - System Interaction
 
-### Different Categories of Aircraft Systems
+## Different Categories of Aircraft Systems
 - Flight Control Systems
   - Primary controls: Ailerons, elevator, rudder
   - Secondary controls: Flaps, slats, spoilers
