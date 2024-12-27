@@ -27,6 +27,13 @@
   - Pneumatic systems
   - Environmental control systems (ECS)
   - Emergency systems
+
+### Flight Control Systems
+
+#### Flight Control Linkage Systems
+
+• Push-pull control rod systems
+• Cable and pulley systems
   
 ## Learning Resources
 
