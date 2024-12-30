@@ -9,12 +9,11 @@
   
 - SysML Overview
   - Core diagrams: Use case, activity, sequence, and block definition diagrams
-  -How SysML helps in system architecture and integration
+  - How SysML helps in system architecture and integration
   
 - Application to Aerospace
   - Functional analysis of aircraft systems
   - System-level modeling and validation
-  - Learning Resources
 
 ## Books:
 - “Systems Engineering and Analysis” by Benjamin S. Blanchard and Wolter J. Fabrycky
