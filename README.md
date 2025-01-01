@@ -24,3 +24,6 @@ The repository is roughly  organized into the following directories:
 ## Cool Stuff
 
 James Web Telescope - https://www.linkedin.com/posts/philipp-kozin_spaceexploration-jameswebb-telescope-activity-7277963743295111168-ypnK?utm_source=share&utm_medium=member_android
+
+ISRO SpaceDex - https://www.linkedin.com/posts/karthikeyannaren_pslv-isro-spadex-activity-7278054140776169472-YAYE?utm_source=share&utm_medium=member_desktop
+
