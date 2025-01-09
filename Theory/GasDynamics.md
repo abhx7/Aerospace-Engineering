@@ -71,7 +71,9 @@ the equations, starting point of derivations and assumptions
 
 
 
+## References
 
+Gas Dynamics Notes Summary -  https://kyleniemeyer.github.io/gas-dynamics-notes/intro.html
  
     
     
