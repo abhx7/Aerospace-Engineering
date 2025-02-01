@@ -18,6 +18,8 @@ The repository is roughly organized into the following directories:
 - **📖 Theory** – Core principles like fluid mechanics, thermodynamics, and structural analysis.  
 - **🤖 UAV (Drones)** – Unmanned Aerial Vehicle design, control systems, and applications.  
 
+[ChatGPT Conversation on Aerospace Engineering!]( https://chatgpt.com/share/679e2b64-f07c-8006-a5e5-cfe334bfab97
+
 ---
 
 ## 🌟 Cool Stuff  
