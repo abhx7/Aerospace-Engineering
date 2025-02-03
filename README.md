@@ -32,6 +32,8 @@ Some awesome aerospace-related content you might enjoy:
 
 ⚙️ **Aircraft Gearbox Mechanics** – [Dive in!](https://www.linkedin.com/feed/update/urn:li:activity:7280455466239864832?utm_source=share&utm_medium=member_android)  
 
+https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_what-is-the-most-efficient-plane-design-activity-7291600764840341505-woYh/?utm_source=share&utm_medium=member_android 
+
 ---
 
 Hope you find this repo helpful! If you have any questions, feel free to reach out. Happy exploring! 🚀✨
