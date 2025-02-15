@@ -36,6 +36,7 @@ https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_what-is-the-m
 
 Flight Dynamics Sims - https://www.linkedin.com/posts/umutbucak_aerospaceengineering-flightdynamics-controlsystems-activity-7293526376026923008-6pGs/?utm_source=share&utm_medium=member_android
 
+https://www.linkedin.com/posts/tewodros-solomon-a989978a_aviationhistory-flightevolution-aerospaceinnovation-activity-7295301381584809986-04pH?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 ---
 
 Hope you find this repo helpful! If you have any questions, feel free to reach out. Happy exploring! 🚀✨
