@@ -39,6 +39,9 @@ Flight Dynamics Sims - https://www.linkedin.com/posts/umutbucak_aerospaceenginee
 https://www.linkedin.com/posts/tewodros-solomon-a989978a_aviationhistory-flightevolution-aerospaceinnovation-activity-7295301381584809986-04pH?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
 How Jet Engine Blades Survive Extreme Heat: - https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_how-jet-engine-blades-survive-extreme-heat-activity-7297402481649631232-PQIc/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Flight Mechanism and Lift Process - https://www.linkedin.com/posts/aliyar-javadi-4b078124_airfoillif-flightprocess-aerodynamic-ugcPost-7300574751024906241-0XSK/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
 ---
 
 Hope you find this repo helpful! If you have any questions, feel free to reach out. Happy exploring! 🚀✨
