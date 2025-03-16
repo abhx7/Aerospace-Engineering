@@ -1,3 +1,5 @@
+# Optimal Control 
 
+## Courses
 
-https://motion.cs.illinois.edu/RoboticSystems/OptimalControl.html
+- [Illinois Robotic Systems Course](https://motion.cs.illinois.edu/RoboticSystems/OptimalControl.html)
