@@ -1,18 +1,20 @@
 # Propulsion
 
-For aircrafts
+## Aircraft Propulsion 
 
-Air breathing 
+### Air breathing 
 
-Non airbreathing
+### Non airbreathing
 
-For UAVs or small aircrafts 
+## UAVs or Small Aircrafts Propulsion
 
-IC engines
+### IC engines
 
-Electrical
+[Internal Combustion Engine working principle Video](https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7280879220711374848-V7Sp/?utm_source=share&utm_medium=member_android)
 
-For space 
+### Electrical
+
+## Space Propulsion
 
 
-IC engines - https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7280879220711374848-V7Sp/?utm_source=share&utm_medium=member_android
+
