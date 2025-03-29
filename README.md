@@ -45,6 +45,9 @@ Some awesome aerospace-related content you might enjoy:
 [Oblique Wing Design](https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_oblique-wing-design-is-a-promising-innovation-activity-7297739978392952834-HyGS/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 [Airfoils](https://www.linkedin.com/posts/girish-kumar-ramaiah-85507257_airfoils-an-airfoil-is-a-surface-such-as-activity-7305839762022481920-KqLK/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+
+[Ram Air Turbine](https://www.linkedin.com/posts/diego-priego_aviation-safety-engineering-activity-7309121693669580800-U1R3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+
 ---
 
 Hope you find this repo helpful! If you have any questions, feel free to reach out. Happy exploring! 🚀✨
