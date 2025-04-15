@@ -48,6 +48,7 @@ Some awesome aerospace-related content you might enjoy:
 
 [Ram Air Turbine](https://www.linkedin.com/posts/diego-priego_aviation-safety-engineering-activity-7309121693669580800-U1R3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
+[Velocity-Altitude Flight-Regime Diagram](https://www.linkedin.com/posts/jatgfregnani_aerospaceengineering-flightregimes-velocityaltitudediagram-activity-7316359416130240512-5-_c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ), idealized by Dr Javier Urzay
 ---
 
 Hope you find this repo helpful! If you have any questions, feel free to reach out. Happy exploring! 🚀✨
