@@ -73,7 +73,8 @@ the equations, starting point of derivations and assumptions
 
 ## References
 
-Gas Dynamics Notes Summary -  https://kyleniemeyer.github.io/gas-dynamics-notes/intro.html
+Gas Dynamics Notes Summary -  [This is a book of notes for the ME 461/561: Gas Dynamics course taught by Prof. Kyle Niemeyer at Oregon State University](https://kyleniemeyer.github.io/gas-dynamics-notes/intro.html)
  
     
-    
+ # Cool Stuff
+ - [Shock diamonds in supersonic flow](https://www.linkedin.com/posts/sriram-aditya-b01868236_shockdiamonds-supersonicflow-aerospaceengineering-activity-7317377431772770304-CaFe/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
