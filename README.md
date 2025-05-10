@@ -52,6 +52,7 @@ Some awesome aerospace-related content you might enjoy:
 
 [Space Debris](https://www.linkedin.com/posts/jatgfregnani_aerospaceengineering-flightregimes-velocityaltitudediagram-activity-7316359416130240512-5-_c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
+[Generates Thrust from Electricity—No Fuel Required](https://www.linkedin.com/posts/waseem-rehmancpengcmrppmp_technewswithwaseem-techweeklyupdate-incrediblehumans-activity-7325183754681905152-qEPQ/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) 
 ---
 
 Hope you find this repo helpful! If you have any questions, feel free to reach out. Happy exploring! 🚀✨
