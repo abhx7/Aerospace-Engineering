@@ -45,7 +45,9 @@ Some awesome aerospace-related content you might enjoy:
 - [Flight Dynamics Sims](https://www.linkedin.com/posts/umutbucak_aerospaceengineering-flightdynamics-controlsystems-activity-7293526376026923008-6pGs/?utm_source=share&utm_medium=member_android)
 - [Oblique Wing Design](https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_oblique-wing-design-is-a-promising-innovation-activity-7297739978392952834-HyGS/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [reason behind the rarity of Forward-swept wing Aircraft](https://www.linkedin.com/posts/ajith-j-33a241238_forwardsweptwing-grummanx29-aerodynamics-activity-7326759456258560000-dv2q/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [THE KARMAN LINE](https://www.linkedin.com/posts/sam-eba-82a236112_the-karman-line-in-the-early-20th-century-activity-7328865067423158272-0Q4P/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Open-Circuit subsonic Wind Tunnel](https://www.linkedin.com/posts/maithem-adnan-ab87a1264_aerodynamics-windtunnel-engineering-activity-7328892132461547522-TO_C/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [𝑮𝒂𝒔 𝑻𝒖𝒓𝒃𝒊𝒏𝒆 𝑬𝒏𝒈𝒊𝒏𝒆: 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕𝒔, 𝑪𝒚𝒄𝒍𝒆𝒔 & 𝑴𝒂𝒕𝒆𝒓𝒊𝒂𝒍𝒔](https://www.linkedin.com/posts/sattyam-maurya_jetengine-gasturbine-aerospaceengineering-activity-7329424951373991936-_BUM/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 ---
 
 Hope you find this repo helpful! If you have any questions, feel free to reach out. Happy exploring! 🚀✨
