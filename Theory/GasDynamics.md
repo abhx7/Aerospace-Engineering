@@ -78,3 +78,4 @@ Gas Dynamics Notes Summary -  [This is a book of notes for the ME 461/561: Gas D
     
  # Cool Stuff
  - [Shock diamonds in supersonic flow](https://www.linkedin.com/posts/sriram-aditya-b01868236_shockdiamonds-supersonicflow-aerospaceengineering-activity-7317377431772770304-CaFe/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+ - [Open-Circuit subsonic Wind Tunnel](https://www.linkedin.com/posts/maithem-adnan-ab87a1264_aerodynamics-windtunnel-engineering-activity-7328892132461547522-TO_C/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
