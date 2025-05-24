@@ -63,6 +63,7 @@ Pressure ratio variation curves
 
 the equations, starting point of derivations and assumptions
 
+- [Bernoulli's Principle](https://www.linkedin.com/posts/antonio-parla-54722844_aviation-pilots-training-activity-7331352192894795776-m3Nq/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## Rayleigh flow
 
