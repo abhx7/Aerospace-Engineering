@@ -33,7 +33,10 @@ Some awesome aerospace-related content you might enjoy:
 - [Space Debris](https://www.linkedin.com/posts/jatgfregnani_aerospaceengineering-flightregimes-velocityaltitudediagram-activity-7316359416130240512-5-_c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [orthrop Grumman B-2 Spirit stealth aircraft](https://www.linkedin.com/posts/dr-ahmad-sabirin-arshad-514504189_stealthtechnology-biomimicryinaviation-b2spirit-activity-7325028979206184960-YPZa?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [overview document and a selection of mission performance data for the HV-2 Hermes ISR concept](https://www.linkedin.com/posts/sina-golshany_hypersonics-isr-digitalengineering-activity-7328026265423171584-m_e5/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Plasma-Based Flow Control in Jet Engines: Engineering the Future of Propulsion](https://www.linkedin.com/posts/honey-yadav-608420261_mechanicalaerospaceengineering-aerospaceengineering-activity-7330925290325454848-aNAo/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [CFRP morphing structures](https://www.linkedin.com/posts/biserat-birhanu-b9078230b_aircrafttechnician-aviationmaintenance-morphingaerofoil-activity-7330146002118561792-gvV1/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)h
+- [Multidisciplinary Design Optimization](https://www.linkedin.com/posts/jatgfregnani_mdo-aircraftdesign-systemsengineering-activity-7331600790979088385-Z7EB/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+ 
 ## Technical Tidbits 
 
 - [Aviation History](https://www.linkedin.com/posts/tewodros-solomon-a989978a_aviationhistory-flightevolution-aerospaceinnovation-activity-7295301381584809986-04pH?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
@@ -48,6 +51,10 @@ Some awesome aerospace-related content you might enjoy:
 - [THE KARMAN LINE](https://www.linkedin.com/posts/sam-eba-82a236112_the-karman-line-in-the-early-20th-century-activity-7328865067423158272-0Q4P/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Open-Circuit subsonic Wind Tunnel](https://www.linkedin.com/posts/maithem-adnan-ab87a1264_aerodynamics-windtunnel-engineering-activity-7328892132461547522-TO_C/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [𝑮𝒂𝒔 𝑻𝒖𝒓𝒃𝒊𝒏𝒆 𝑬𝒏𝒈𝒊𝒏𝒆: 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕𝒔, 𝑪𝒚𝒄𝒍𝒆𝒔 & 𝑴𝒂𝒕𝒆𝒓𝒊𝒂𝒍𝒔](https://www.linkedin.com/posts/sattyam-maurya_jetengine-gasturbine-aerospaceengineering-activity-7329424951373991936-_BUM/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [STL ≠ Simulation-Ready](https://www.linkedin.com/posts/damjangnjidic_fea-cfd-cad-activity-7331261295393923072-UdFx/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [How Do Fighter Jet Turbine Blades Survive 1700°C? The Answer Lies in Brilliant Cooling Science](https://www.linkedin.com/posts/honey-yadav-608420261_jet-turbine-blades-activity-7330559300848799745-ve7C/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 ---
+
+[What Makes Aerospace Engineers Different?](https://www.linkedin.com/posts/vikash-kumar-srivastav-100868328_aerospaceengineering-gateaerospace-engineeringmindset-activity-7330900572771934210-Wm5_/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 Hope you find this repo helpful! If you have any questions, feel free to reach out. Happy exploring! 🚀✨
