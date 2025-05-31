@@ -69,7 +69,7 @@ the equations, starting point of derivations and assumptions
 
 ## Fanno flow
 
-
+- [The Moody Diagram: Where friction meets flow](https://www.linkedin.com/posts/alokedas_cfd-moodydiagram-flowisbeautiful-activity-7330793211604422656-A-px/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 
 ## References
