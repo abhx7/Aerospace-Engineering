@@ -1,8 +1,6 @@
 # Aerial Robotics
 
 
-
-
 ## Resources
 
 - [Aerial Robotics Resource - Coursera](https://github.com/MohaKhalili/RoboticsSpecialization-AerialRobotics)
@@ -19,3 +17,4 @@
 ## Latest Industry Developements 
 - [Helicopter with rotor integrated propulsion](https://www.linkedin.com/posts/prof-friedrich-grimm-14a7403a_resdevice1-resheli1-aerospace-activity-7313529279114342400-pfKq/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Aerodynamic Configurations of UAVs: Part 1 – High-Altitude Long Endurance (HALE) UAVs](https://www.linkedin.com/posts/activity-7324960202414321664-YdcA/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- 🚁 India’s Rising Edge in [Drone Propeller Manufacturing](https://www.linkedin.com/posts/harshal-vadgama-b1598773_dronetechnology-makeinindia-carbonfiber-activity-7331899252278788096-g-Im/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) 🚁
