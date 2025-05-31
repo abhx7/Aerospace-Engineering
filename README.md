@@ -49,12 +49,14 @@ Some awesome aerospace-related content you might enjoy:
 - [Oblique Wing Design](https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_oblique-wing-design-is-a-promising-innovation-activity-7297739978392952834-HyGS/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [reason behind the rarity of Forward-swept wing Aircraft](https://www.linkedin.com/posts/ajith-j-33a241238_forwardsweptwing-grummanx29-aerodynamics-activity-7326759456258560000-dv2q/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [THE KARMAN LINE](https://www.linkedin.com/posts/sam-eba-82a236112_the-karman-line-in-the-early-20th-century-activity-7328865067423158272-0Q4P/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-- [Open-Circuit subsonic Wind Tunnel](https://www.linkedin.com/posts/maithem-adnan-ab87a1264_aerodynamics-windtunnel-engineering-activity-7328892132461547522-TO_C/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [𝑮𝒂𝒔 𝑻𝒖𝒓𝒃𝒊𝒏𝒆 𝑬𝒏𝒈𝒊𝒏𝒆: 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕𝒔, 𝑪𝒚𝒄𝒍𝒆𝒔 & 𝑴𝒂𝒕𝒆𝒓𝒊𝒂𝒍𝒔](https://www.linkedin.com/posts/sattyam-maurya_jetengine-gasturbine-aerospaceengineering-activity-7329424951373991936-_BUM/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [STL ≠ Simulation-Ready](https://www.linkedin.com/posts/damjangnjidic_fea-cfd-cad-activity-7331261295393923072-UdFx/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [How Do Fighter Jet Turbine Blades Survive 1700°C? The Answer Lies in Brilliant Cooling Science](https://www.linkedin.com/posts/honey-yadav-608420261_jet-turbine-blades-activity-7330559300848799745-ve7C/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- 🚀 [AGS Turbines: Revolutionizing Hypersonic Propulsion](https://www.linkedin.com/posts/honey-yadav-608420261_mechanicalengineering-hypersonics-jetengines-activity-7334184862259494912-A0dn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Full Performance Analysis of the Gulfstream Aerospace G650ER "Extended Range"](https://www.linkedin.com/posts/adham-shelbaya-22ab53264_full-performance-analysis-of-the-gulfstream-activity-7332839216743190528-gpLL/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ), one of the most advanced business jets in the world! 
 ---
-
+  
+✈️ Behind Every Great Aircraft Is a Brilliantly Engineered [Fuselage](https://www.linkedin.com/posts/krishnagupta-1999_aircraftdesign-aerospaceengineering-fuselage-activity-7331231108283420673-sBNp/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) 🛠️
 [What Makes Aerospace Engineers Different?](https://www.linkedin.com/posts/vikash-kumar-srivastav-100868328_aerospaceengineering-gateaerospace-engineeringmindset-activity-7330900572771934210-Wm5_/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 Hope you find this repo helpful! If you have any questions, feel free to reach out. Happy exploring! 🚀✨
