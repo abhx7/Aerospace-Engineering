@@ -6,7 +6,7 @@
 - [Aerial Robotics Resource - Coursera](https://github.com/MohaKhalili/RoboticsSpecialization-AerialRobotics)
 - [List of Resouces to start Aerial Robotics](https://www.linkedin.com/posts/enzo-ghisoni-robotics_robotics-ros-activity-7313893060537409536-db0c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗠𝗶𝗰𝗿𝗼 𝗗𝗿𝗼𝗻𝗲 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝘆 𝘄𝗶𝘁𝗵 𝗢𝗽𝘁𝗶𝗰𝗮𝗹 𝗙𝗹𝗼𝘄 with 𝗦𝗲𝗻𝘀𝗼𝗿 𝗙𝘂𝘀𝗶𝗼𝗻](https://www.linkedin.com/posts/vasantha-kanesh-muruganantham_drones-autonomy-opticalflow-ugcPost-7299736180810534912-bE6c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- Choosing [MCU](https://www.linkedin.com/posts/prasad-deshmukh-595b36205_2abrembeddednotes-a-b-activity-7334088687229566979-OaZ_/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)? STM32 vs ESP32 vs nRF52 — A Embedded Engineer's Perspective
 
 ## DIYs
 - [Low-Cost Drone with Hand Gesture control using an ESP32 with an MPU6050 IMU sensor](https://www.linkedin.com/posts/dipanshu-dhote-246aa9331_hand-gesture-esp32-ugcPost-7300225743949606914-6EYu/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
