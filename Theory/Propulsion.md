@@ -2,6 +2,10 @@
 
 ## Aircraft Propulsion 
 
+[Rocket Nozzles: Designs, Types, and Theory](https://www.linkedin.com/posts/jitesh-swami-7959721aa_rocketscience-nozzledesign-aerospaceengineering-activity-7334657022166016002-5is_/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+
+[Types of Jet Engines](https://www.linkedin.com/posts/kiriti-rambhatla_aerospaceengineering-jetengines-deeptech-activity-7335440101209972736-zYwF/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+
 ### Air breathing 
 
 ### Non airbreathing
