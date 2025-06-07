@@ -12,7 +12,7 @@
 ## Hands-On
 - [Jigs](https://www.linkedin.com/posts/sunil-kumar-b86b41330_jigs-definition-a-jig-is-a-work-holding-activity-7333173820184248321-wxNS?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - 🛠️ [Before CAD](https://www.linkedin.com/posts/raylan-charles-fernandes-5b05a8226_catia-solidworks-mechanicalengineering-activity-7331942741788028929-7prh/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ): When Engineers Designed with Their Hands ✍️
-
+- [GD&T (Geometric Dimensioning & Tolerancing)](https://www.linkedin.com/posts/sattyam-maurya_gdandt-mechanicalengineering-engineeringdrawings-activity-7336942488865193984-ADcU/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## Off Beat 
 - 🔧 [Engineering Design Tells a Story](https://www.linkedin.com/posts/galileov_engineeringdesign-mechanicalengineering-suspension-activity-7334027030109278210-YCrd/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – Even on the Curb 🛞
