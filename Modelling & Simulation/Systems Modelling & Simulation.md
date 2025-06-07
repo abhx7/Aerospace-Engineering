@@ -37,4 +37,5 @@ Books:
 ## Example Caes
 
 - next-generation [Aerospike engine](https://www.linkedin.com/posts/marco-nanni-663180252_thermalflow-fluiddynamics-heattransfer-activity-7335674709457485824-Ohyi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) comes to life in Simulink? 🚀
+- [UAS simulation and algorithm development using the powerful tools within Matlab and Simulink](https://www.linkedin.com/posts/carotenuto-antonio2001_unmanned-aircraft-systems-activity-7336300786286579712-eKyP/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) 
 
