@@ -12,7 +12,7 @@
 - [Low-Cost Drone with Hand Gesture control using an ESP32 with an MPU6050 IMU sensor](https://www.linkedin.com/posts/dipanshu-dhote-246aa9331_hand-gesture-esp32-ugcPost-7300225743949606914-6EYu/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Rs 1100 Cheap Camera Drone](https://www.linkedin.com/posts/dipanshu-dhote-246aa9331_expensive-stable-flipping-ugcPost-7311518309085003777-KUk9?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [aerodynamically efficient First Person View (FPV)](https://www.linkedin.com/posts/venka-tesan-m_operationsindoor-fpvdrone-autonomousdrones-ugcPost-7327284303904628736-T9_Y/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [UAS simulation and algorithm development using the powerful tools within Matlab and Simulink](https://www.linkedin.com/posts/carotenuto-antonio2001_unmanned-aircraft-systems-activity-7336300786286579712-eKyP/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## Latest Industry Developements 
 - [Helicopter with rotor integrated propulsion](https://www.linkedin.com/posts/prof-friedrich-grimm-14a7403a_resdevice1-resheli1-aerospace-activity-7313529279114342400-pfKq/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
