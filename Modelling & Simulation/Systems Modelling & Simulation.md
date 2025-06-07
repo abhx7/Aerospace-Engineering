@@ -34,3 +34,7 @@ Books:
 - Focus on connecting physical systems to dynamic systems.
 - Use online forums like MATLAB Central for community support.
 
+## Example Caes
+
+- next-generation [Aerospike engine](https://www.linkedin.com/posts/marco-nanni-663180252_thermalflow-fluiddynamics-heattransfer-activity-7335674709457485824-Ohyi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) comes to life in Simulink? 🚀
+
