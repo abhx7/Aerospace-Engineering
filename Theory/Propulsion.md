@@ -28,6 +28,7 @@
 - [𝑮𝒂𝒔 𝑻𝒖𝒓𝒃𝒊𝒏𝒆 𝑬𝒏𝒈𝒊𝒏𝒆: 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕𝒔, 𝑪𝒚𝒄𝒍𝒆𝒔 & 𝑴𝒂𝒕𝒆𝒓𝒊𝒂𝒍𝒔](https://www.linkedin.com/posts/sattyam-maurya_jetengine-gasturbine-aerospaceengineering-activity-7329424951373991936-_BUM/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - 🔥✈️ [Combustor Flow Dynamics & Swirl Stabilization:](https://www.linkedin.com/posts/honey-yadav-608420261_mechanicalengineering-aerospaceengineering-activity-7333103704654389249-DJES/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) The Heartbeat of Fighter Jet Propulsion ✈️🔥
 - next-generation [Aerospike engine](https://www.linkedin.com/posts/marco-nanni-663180252_thermalflow-fluiddynamics-heattransfer-activity-7335674709457485824-Ohyi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) comes to life in Simulink? 🚀
+- Introducing "Nozzle and Chamber Design" – A [Comprehensive MATLAB App for Rocket Engine Design](https://www.linkedin.com/posts/udayballingu_rocketpropulsion-aerospaceengineering-nozzledesign-activity-7337189113390931968-sj9P/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
  
 ## Advancements
