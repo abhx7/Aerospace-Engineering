@@ -37,6 +37,7 @@ Some awesome aerospace-related content you might enjoy:
 - [CFRP morphing structures](https://www.linkedin.com/posts/biserat-birhanu-b9078230b_aircrafttechnician-aviationmaintenance-morphingaerofoil-activity-7330146002118561792-gvV1/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)h
 - [Multidisciplinary Design Optimization](https://www.linkedin.com/posts/jatgfregnani_mdo-aircraftdesign-systemsengineering-activity-7331600790979088385-Z7EB/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 -  What if I told you that [Aeronautics isn’t just about machines…](https://www.linkedin.com/posts/sara-boukhira_systemthinking-aeronauticsindepth-engineeringelegance-activity-7333195505339924482-7yj0/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) it’s about mastering complexity?
+-  In every flight, an aircraft’s center of gravity (CG) shifts as fuel is consumed. While this may appear to be a minor change, its [impact on performance and efficiency](https://www.linkedin.com/posts/jatgfregnani_flightefficiency-aircraftperformance-sustainableaviation-activity-7337436494934032385-Rgy0/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) can be significant when considering long range flights.
    
 ## Technical Tidbits 
 
@@ -56,7 +57,7 @@ Some awesome aerospace-related content you might enjoy:
 - 🚀 [AGS Turbines: Revolutionizing Hypersonic Propulsion](https://www.linkedin.com/posts/honey-yadav-608420261_mechanicalengineering-hypersonics-jetengines-activity-7334184862259494912-A0dn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Full Performance Analysis of the Gulfstream Aerospace G650ER "Extended Range"](https://www.linkedin.com/posts/adham-shelbaya-22ab53264_full-performance-analysis-of-the-gulfstream-activity-7332839216743190528-gpLL/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ), one of the most advanced business jets in the world!
 - ✈️ Unlocking the Skies: [ARINC 429](https://www.linkedin.com/posts/omar-yasser-91580a135_avionics-boeing737-arinc429-activity-7334280792338001921-2CXp/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) in the Boeing 737-800 🛫
-- 🌐🚀🧬🔧Understanding [the Airspeed Indicator (ASI) and Pitot Static System Blockages](https://www.linkedin.com/posts/waseem-rehmancpengcmrppmp_techandsciencenewswithwaseem-engineeringcatchup-activity-7333520995946840067-LNzu/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- 🌐🚀🧬🔧Understanding [the Airspeed Indicator (ASI) and Pitot Static System Blockages](https://www.linkedin.com/posts/waseem-rehmancpengcmrppmp_techandsciencenewswithwaseem-engineeringcatchup-activity-7333520995946840067-LNzu/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ); Understanding [Aircraft Speed Types](https://www.linkedin.com/posts/onur-aytekin-363913291_aircraftairspeed-ias-cas-activity-7336820199796441088-cjts/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ---
   
