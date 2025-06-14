@@ -8,7 +8,9 @@
 - Combining the Fundamentals of [Strength of Materials](https://www.linkedin.com/posts/dzignlimited_mechanicalengineering-engineeringbasics-strengthofmaterials-activity-7333337135468486656-9lKV/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) in One Frame!
 - [Torsion of Circular Shafts](https://www.linkedin.com/posts/suraj-sarkar-2000sps1236_torsion-of-circular-shafts-handwrittennotes-activity-7332246542629658624-AnDW/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - Understanding [Stress-Strain Behavior](https://www.linkedin.com/posts/syed-darain-abbas-sherazi-9b28b1300_engineering-materialscience-mechanicaldesign-activity-7334295399639179264-2GGY/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ): Ductile vs Brittle Materials
- 
+- ✈️ Understanding the [Anatomy of an Aircraft Wing](https://www.linkedin.com/posts/sauud-anwar-959b88360_aviation-aircraftengineering-aerospace-activity-7339166182517755904-BaIP/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – The Power Behind Flight 🌤️
+
+  
 ## Hands-On
 - [Jigs](https://www.linkedin.com/posts/sunil-kumar-b86b41330_jigs-definition-a-jig-is-a-work-holding-activity-7333173820184248321-wxNS?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - 🛠️ [Before CAD](https://www.linkedin.com/posts/raylan-charles-fernandes-5b05a8226_catia-solidworks-mechanicalengineering-activity-7331942741788028929-7prh/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ): When Engineers Designed with Their Hands ✍️
