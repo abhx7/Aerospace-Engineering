@@ -37,8 +37,9 @@ Some awesome aerospace-related content you might enjoy:
 - [CFRP morphing structures](https://www.linkedin.com/posts/biserat-birhanu-b9078230b_aircrafttechnician-aviationmaintenance-morphingaerofoil-activity-7330146002118561792-gvV1/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)h
 - [Multidisciplinary Design Optimization](https://www.linkedin.com/posts/jatgfregnani_mdo-aircraftdesign-systemsengineering-activity-7331600790979088385-Z7EB/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 -  What if I told you that [Aeronautics isn’t just about machines…](https://www.linkedin.com/posts/sara-boukhira_systemthinking-aeronauticsindepth-engineeringelegance-activity-7333195505339924482-7yj0/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) it’s about mastering complexity?
--  In every flight, an aircraft’s center of gravity (CG) shifts as fuel is consumed. While this may appear to be a minor change, its [impact on performance and efficiency](https://www.linkedin.com/posts/jatgfregnani_flightefficiency-aircraftperformance-sustainableaviation-activity-7337436494934032385-Rgy0/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) can be significant when considering long range flights.
-   
+- In every flight, an aircraft’s center of gravity (CG) shifts as fuel is consumed. While this may appear to be a minor change, its [impact on performance and efficiency](https://www.linkedin.com/posts/jatgfregnani_flightefficiency-aircraftperformance-sustainableaviation-activity-7337436494934032385-Rgy0/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) can be significant when considering long range flights.
+- A Hyderabad startup, [TakeMe2Space](https://www.linkedin.com/posts/prateeksaxena123_isro-techinnovation-india-activity-7338074956318027776-ANdh/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ&utm_campaign=whatsapp), has launched India’s first-ever thinking satellite.
+    
 ## Technical Tidbits 
 
 - [Aviation History](https://www.linkedin.com/posts/tewodros-solomon-a989978a_aviationhistory-flightevolution-aerospaceinnovation-activity-7295301381584809986-04pH?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
@@ -58,6 +59,13 @@ Some awesome aerospace-related content you might enjoy:
 - [Full Performance Analysis of the Gulfstream Aerospace G650ER "Extended Range"](https://www.linkedin.com/posts/adham-shelbaya-22ab53264_full-performance-analysis-of-the-gulfstream-activity-7332839216743190528-gpLL/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ), one of the most advanced business jets in the world!
 - ✈️ Unlocking the Skies: [ARINC 429](https://www.linkedin.com/posts/omar-yasser-91580a135_avionics-boeing737-arinc429-activity-7334280792338001921-2CXp/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) in the Boeing 737-800 🛫
 - 🌐🚀🧬🔧Understanding [the Airspeed Indicator (ASI) and Pitot Static System Blockages](https://www.linkedin.com/posts/waseem-rehmancpengcmrppmp_techandsciencenewswithwaseem-engineeringcatchup-activity-7333520995946840067-LNzu/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ); Understanding [Aircraft Speed Types](https://www.linkedin.com/posts/onur-aytekin-363913291_aircraftairspeed-ias-cas-activity-7336820199796441088-cjts/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- 🛩️✨ [Fly-By-Wire](https://www.linkedin.com/posts/dr-ravi-kumar-98160428_fbw-fbw-aerospaceengineering-activity-7336680314783637504-nZBX/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ): Where Pilots Meet Processors ✨🧠
+- ✈️ Understanding the [Anatomy of an Aircraft Wing](https://www.linkedin.com/posts/sauud-anwar-959b88360_aviation-aircraftengineering-aerospace-activity-7339166182517755904-BaIP/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – The Power Behind Flight 🌤️
+- ✈️ [Climbing Smart: AOC vs. ROC](https://www.linkedin.com/posts/dr-ravi-kumar-98160428_aviationscience-flightperformance-aoc-activity-7337680781525299200-NJfs/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – The Science Behind an Aircraft’s Ascent 🌤
+
+## Aviation Tidbits
+- Why the [Boeing 737 MAX Faced Trouble](https://www.linkedin.com/posts/dr-ravi-kumar-98160428_boeing737max-engineeringethics-systemdesign-activity-7337372230227529728-0PIc/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – A Simple Breakdown for Complex Minds
+- 
 
 ---
   
