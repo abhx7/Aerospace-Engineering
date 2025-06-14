@@ -1,6 +1,7 @@
 # Spacecrafts Satellites Rockets
 
 ## Developements
+- Revisiting the [Risk Assessment of a Spacecraft Flagged with 98% Collision Probability](https://www.linkedin.com/posts/yema-paul-503851256_revisiting-the-risk-assessment-of-a-spacecraft-activity-7336754528354009088-XqWW/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## Topics
 - [No Kantrowitz Limit?](https://liem.ca/posts/kantrowitz/)
