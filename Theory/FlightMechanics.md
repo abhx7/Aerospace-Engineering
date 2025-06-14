@@ -1,5 +1,6 @@
 # Flight Mechanics
 
+
 - [Climbing Flight Notes](https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node100.html)
 - [Flight Performance](https://www.linkedin.com/posts/dr-manikandan-murugaiah_aircraft-performance-i-activity-7301847487231709184-UoHs/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Spaceflight Mechanics and Attitude Dynamics](https://www.linkedin.com/posts/dr-manikandan-murugaiah_lecture-notes-on-spaceflight-mechanics-activity-7327397503186751488-v4Cw/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ), focused on Orbital Mechanics (IIT-B). 
@@ -9,5 +10,7 @@
 - 🛩️ [Aircraft Longitudinal Dynamics Simulation](https://www.linkedin.com/posts/mohamedharhash_aircraft-longitudinal-dynamics-simulation-activity-7334301013090168833-vqf_?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) using MATLAB
 - [Nonlinear Aircraft Model](https://www.linkedin.com/posts/dr-manikandan-murugaiah_comparative-study-of-longitudinal-dynamics-activity-7338150186243760128-8lYH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – Longitudinal Dynamics 6-DOF Simplified
 - [Climb Performance](https://www.linkedin.com/posts/omar-yasser-91580a135_aviation-aviationsafety-aircraftmaintenance-activity-7331770916655337472-uSnw/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+-  ✈️ [Climbing Smart: AOC vs. ROC](https://www.linkedin.com/posts/dr-ravi-kumar-98160428_aviationscience-flightperformance-aoc-activity-7337680781525299200-NJfs/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – The Science Behind an Aircraft’s Ascent 🌤
+
 
 - [No Kantrowitz Limit?](https://liem.ca/posts/kantrowitz/)
