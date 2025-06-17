@@ -14,3 +14,6 @@
 
 
 - [No Kantrowitz Limit?](https://liem.ca/posts/kantrowitz/)
+
+## Real World Examples
+- [AI-171 Flight Dynamics Analysis](https://www.linkedin.com/posts/activity-7339752987273138176-atPs/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
