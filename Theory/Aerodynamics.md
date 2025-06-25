@@ -9,6 +9,7 @@
 - [Different Wing Designs & Their Lift Distribution](https://www.linkedin.com/posts/itzmemsd_aviationdesign-aircraftwings-liftdistribution-activity-7332452122422132736-dnr2/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) ✈️
 - What Is [Mach Number](https://www.linkedin.com/posts/faisalqidwai88_what-is-mach-number-and-why-its-a-critical-activity-7331933889734569986-Ridi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) — And Why It’s a Critical Variable in High-Speed Flight
 - 🕊️ [Wings](https://www.linkedin.com/posts/krishnagupta-1999_aircraft-aircraftdesign-wingengineering-activity-7331593499013730305-6lIq/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ): Where Physics Meets Poetry ✈️
+- 🚀 [Steady Flow vs Unsteady Flow](https://www.linkedin.com/posts/vratesh-mukadam-703519111_cfd-fluidmechanics-engineeringsimplified-activity-7341511588211765248-bUc2/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – What’s Flowing and What’s Changing
 
 ## Advancements 
 - [CFRP morphing structures](https://www.linkedin.com/posts/biserat-birhanu-b9078230b_aircrafttechnician-aviationmaintenance-morphingaerofoil-activity-7330146002118561792-gvV1/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)h
