@@ -39,6 +39,7 @@ Some awesome aerospace-related content you might enjoy:
 -  What if I told you that [Aeronautics isn’t just about machines…](https://www.linkedin.com/posts/sara-boukhira_systemthinking-aeronauticsindepth-engineeringelegance-activity-7333195505339924482-7yj0/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) it’s about mastering complexity?
 - In every flight, an aircraft’s center of gravity (CG) shifts as fuel is consumed. While this may appear to be a minor change, its [impact on performance and efficiency](https://www.linkedin.com/posts/jatgfregnani_flightefficiency-aircraftperformance-sustainableaviation-activity-7337436494934032385-Rgy0/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) can be significant when considering long range flights.
 - A Hyderabad startup, [TakeMe2Space](https://www.linkedin.com/posts/prateeksaxena123_isro-techinnovation-india-activity-7338074956318027776-ANdh/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ&utm_campaign=whatsapp), has launched India’s first-ever thinking satellite.
+- 🛩️ Simulating Air Taxi Safety: [NASA’s Quadcopter in Ground Effect](https://www.linkedin.com/posts/jousefmurad_cfd-simulation-vtol-activity-7339286150794149892-LdSb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
     
 ## Technical Tidbits 
 
@@ -64,13 +65,14 @@ Some awesome aerospace-related content you might enjoy:
 - ✈️ [Climbing Smart: AOC vs. ROC](https://www.linkedin.com/posts/dr-ravi-kumar-98160428_aviationscience-flightperformance-aoc-activity-7337680781525299200-NJfs/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – The Science Behind an Aircraft’s Ascent 🌤
 - [jet engines perform more efficiently at high altitudes](https://www.linkedin.com/posts/jatgfregnani_jet-engines-efficiency-activity-7337763687656521730-jtK8/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Performance Analysis of the Boeing 777-300ER](https://www.linkedin.com/posts/asad-ahsan-716durr_boeing-777-300er-project-report-activity-7338777084753776640-LCRm/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – A Deep Dive into Unaccelerated & Accelerated Flight Regimes
-  
+- [Flapped vs. Flapless Take-Off](https://www.linkedin.com/posts/itzmemsd_takeoffperformance-flapsornoflaps-pilottraining-activity-7341545519631974401-njkb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+   
 ## Aviation Tidbits
 - Why the [Boeing 737 MAX Faced Trouble](https://www.linkedin.com/posts/dr-ravi-kumar-98160428_boeing737max-engineeringethics-systemdesign-activity-7337372230227529728-0PIc/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – A Simple Breakdown for Complex Minds
 - [nose shapes of the Airbus A320 and Boeing 737](https://www.linkedin.com/posts/benjaminkim100_the-nose-shapes-of-the-airbus-a320-and-boeing-activity-7338986069708685312-GjRh/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Runway Requirements by Aircraft Type](https://www.linkedin.com/posts/khubaib05_runway-requirements-by-aircraft-type-activity-7341308738215038976-wPHa/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – How Much Space Do They Need?
 - 🛫 [Flight Stages](https://www.linkedin.com/posts/khubaib05_flight-stages-explained-in-simple-terms-activity-7340219628905762816-gQnn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) Explained in Simple Terms ✈️
-
+- 💨 Lifesaver in the Wind – The [RAM Air Turbine](https://www.linkedin.com/posts/khubaib05_lifesaver-in-the-wind-the-ram-air-turbine-activity-7342171942340149248-51pP/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) (RAT)! ⚙️🔋
 
 ---
   
