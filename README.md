@@ -73,7 +73,7 @@ Some awesome aerospace-related content you might enjoy:
 - [Runway Requirements by Aircraft Type](https://www.linkedin.com/posts/khubaib05_runway-requirements-by-aircraft-type-activity-7341308738215038976-wPHa/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – How Much Space Do They Need?
 - 🛫 [Flight Stages](https://www.linkedin.com/posts/khubaib05_flight-stages-explained-in-simple-terms-activity-7340219628905762816-gQnn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) Explained in Simple Terms ✈️
 - 💨 Lifesaver in the Wind – The [RAM Air Turbine](https://www.linkedin.com/posts/khubaib05_lifesaver-in-the-wind-the-ram-air-turbine-activity-7342171942340149248-51pP/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) (RAT)! ⚙️🔋
-
+- 🚨 [Engine Failure on a Twin-Engine Aircraft](https://www.linkedin.com/posts/dr-ravi-kumar-98160428_aviationsafety-pilottraining-aerospace-activity-7346050356755251200-nWBt/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – Now What? ✈️😱
 ---
   
 ✈️ Behind Every Great Aircraft Is a Brilliantly Engineered [Fuselage](https://www.linkedin.com/posts/krishnagupta-1999_aircraftdesign-aerospaceengineering-fuselage-activity-7331231108283420673-sBNp/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) 🛠️
