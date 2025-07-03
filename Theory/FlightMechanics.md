@@ -17,3 +17,4 @@
 
 ## Real World Examples
 - [AI-171 Flight Dynamics Analysis](https://www.linkedin.com/posts/activity-7339752987273138176-atPs/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- modeling, linearizing, and [stabilizing the F-16 fighter aircraft](https://www.linkedin.com/posts/sameet-moazzam_f-16-stability-trim-analysis-on-matlab-activity-7342238772631076865-8vxO/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) in straight-and-level flight at 1000 ft altitude and 300 psf dynamic pressure, with the goal of achieving compliance with MIL-STD-1797 Level 1 Flying Qualities.
