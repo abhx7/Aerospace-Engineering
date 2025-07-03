@@ -6,6 +6,8 @@
 
 [Types of Jet Engines](https://www.linkedin.com/posts/kiriti-rambhatla_aerospaceengineering-jetengines-deeptech-activity-7335440101209972736-zYwF/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
+✈️ [Aircraft Engine Components](https://www.linkedin.com/posts/jorge-sebastiao-12a3a8288_aircraftengine-jetengineparts-aviationtechnology-activity-7342127799614242816-m2nI/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – The Heart of Thrust and Power
+
 ### Air breathing 
 
 ### Non airbreathing
