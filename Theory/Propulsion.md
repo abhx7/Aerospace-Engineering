@@ -22,6 +22,7 @@
 
 ## Space Propulsion
 
+- [theoretical foundations of rocket propulsion](https://www.linkedin.com/posts/setare-m-hoseini-229463208_although-my-primary-focus-has-been-on-gas-activity-7344029377988308992-pWpi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## Technical Tidbits
 
