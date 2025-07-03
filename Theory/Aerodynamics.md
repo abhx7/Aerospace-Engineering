@@ -1,6 +1,7 @@
 # Aerodynamics
 
-
+- [Understanding the Centre of Pressure in Aerodynamics](https://www.linkedin.com/posts/madan-veluvolu-039b6b24_centreofpressure-aerodynamics-flightphysics-activity-7343212567760093184-GwaY/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Have you wondered why elliptical wings are often called the “ideal” shape in aerodynamics?](https://www.linkedin.com/posts/jatgfregnani_aerospaceengineering-aerodynamics-aircraftdesign-activity-7344661374632873984-KBbH/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - High speed aerodynamics - [Airplanes](https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_high-speed-aerodynamics-how-airplanes-conquer-activity-7287431577821679616-Q0Cz/?utm_source=share&utm_medium=member_android)
 - [Drag in Aerodynamics](https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_drag-in-aerodynamics-when-an-object-moves-activity-7299553388550144003-bgIE/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Airfoils](https://www.linkedin.com/posts/girish-kumar-ramaiah-85507257_airfoils-an-airfoil-is-a-surface-such-as-activity-7305839762022481920-KqLK/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
@@ -10,6 +11,7 @@
 - What Is [Mach Number](https://www.linkedin.com/posts/faisalqidwai88_what-is-mach-number-and-why-its-a-critical-activity-7331933889734569986-Ridi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) — And Why It’s a Critical Variable in High-Speed Flight
 - 🕊️ [Wings](https://www.linkedin.com/posts/krishnagupta-1999_aircraft-aircraftdesign-wingengineering-activity-7331593499013730305-6lIq/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ): Where Physics Meets Poetry ✈️
 - 🚀 [Steady Flow vs Unsteady Flow](https://www.linkedin.com/posts/vratesh-mukadam-703519111_cfd-fluidmechanics-engineeringsimplified-activity-7341511588211765248-bUc2/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – What’s Flowing and What’s Changing
+- 
 
 ## Advancements 
 - [CFRP morphing structures](https://www.linkedin.com/posts/biserat-birhanu-b9078230b_aircrafttechnician-aviationmaintenance-morphingaerofoil-activity-7330146002118561792-gvV1/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)h
