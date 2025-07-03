@@ -66,7 +66,9 @@ Some awesome aerospace-related content you might enjoy:
 - [jet engines perform more efficiently at high altitudes](https://www.linkedin.com/posts/jatgfregnani_jet-engines-efficiency-activity-7337763687656521730-jtK8/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Performance Analysis of the Boeing 777-300ER](https://www.linkedin.com/posts/asad-ahsan-716durr_boeing-777-300er-project-report-activity-7338777084753776640-LCRm/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – A Deep Dive into Unaccelerated & Accelerated Flight Regimes
 - [Flapped vs. Flapless Take-Off](https://www.linkedin.com/posts/itzmemsd_takeoffperformance-flapsornoflaps-pilottraining-activity-7341545519631974401-njkb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-   
+- 🌬️ [How Wind Affects Your Flight Path Angle](https://www.linkedin.com/posts/itzmemsd_learntofly-atpltheoryexam-easa-activity-7343326905514790914-H51t/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) ✈️
+- ✈️ [Aircraft Engine Components](https://www.linkedin.com/posts/jorge-sebastiao-12a3a8288_aircraftengine-jetengineparts-aviationtechnology-activity-7342127799614242816-m2nI/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – The Heart of Thrust and Power
+    
 ## Aviation Tidbits
 - Why the [Boeing 737 MAX Faced Trouble](https://www.linkedin.com/posts/dr-ravi-kumar-98160428_boeing737max-engineeringethics-systemdesign-activity-7337372230227529728-0PIc/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – A Simple Breakdown for Complex Minds
 - [nose shapes of the Airbus A320 and Boeing 737](https://www.linkedin.com/posts/benjaminkim100_the-nose-shapes-of-the-airbus-a320-and-boeing-activity-7338986069708685312-GjRh/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
