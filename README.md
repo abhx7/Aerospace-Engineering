@@ -68,6 +68,7 @@ Some awesome aerospace-related content you might enjoy:
 - [Flapped vs. Flapless Take-Off](https://www.linkedin.com/posts/itzmemsd_takeoffperformance-flapsornoflaps-pilottraining-activity-7341545519631974401-njkb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - 🌬️ [How Wind Affects Your Flight Path Angle](https://www.linkedin.com/posts/itzmemsd_learntofly-atpltheoryexam-easa-activity-7343326905514790914-H51t/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) ✈️
 - ✈️ [Aircraft Engine Components](https://www.linkedin.com/posts/jorge-sebastiao-12a3a8288_aircraftengine-jetengineparts-aviationtechnology-activity-7342127799614242816-m2nI/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – The Heart of Thrust and Power
+- [Creating lift consumes massive energy](https://www.linkedin.com/posts/dondarchive_aviationknowledge-activity-7349831486172286976-0ycq/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
     
 ## Aviation Tidbits
 - Why the [Boeing 737 MAX Faced Trouble](https://www.linkedin.com/posts/dr-ravi-kumar-98160428_boeing737max-engineeringethics-systemdesign-activity-7337372230227529728-0PIc/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – A Simple Breakdown for Complex Minds
@@ -76,6 +77,8 @@ Some awesome aerospace-related content you might enjoy:
 - 🛫 [Flight Stages](https://www.linkedin.com/posts/khubaib05_flight-stages-explained-in-simple-terms-activity-7340219628905762816-gQnn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) Explained in Simple Terms ✈️
 - 💨 Lifesaver in the Wind – The [RAM Air Turbine](https://www.linkedin.com/posts/khubaib05_lifesaver-in-the-wind-the-ram-air-turbine-activity-7342171942340149248-51pP/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) (RAT)! ⚙️🔋
 - 🚨 [Engine Failure on a Twin-Engine Aircraft](https://www.linkedin.com/posts/dr-ravi-kumar-98160428_aviationsafety-pilottraining-aerospace-activity-7346050356755251200-nWBt/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – Now What? ✈️😱
+- [𝗔𝗶𝗿𝗰𝗿𝗮𝗳𝘁 𝗔𝗻𝘁𝗲𝗻𝗻𝗮: An Ultimate Guide](https://www.linkedin.com/posts/activity-7348070095279063042-KEmz/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- 
 ---
   
 ✈️ Behind Every Great Aircraft Is a Brilliantly Engineered [Fuselage](https://www.linkedin.com/posts/krishnagupta-1999_aircraftdesign-aerospaceengineering-fuselage-activity-7331231108283420673-sBNp/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) 🛠️
