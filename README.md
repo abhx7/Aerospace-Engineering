@@ -40,6 +40,7 @@ Some awesome aerospace-related content you might enjoy:
 - In every flight, an aircraft’s center of gravity (CG) shifts as fuel is consumed. While this may appear to be a minor change, its [impact on performance and efficiency](https://www.linkedin.com/posts/jatgfregnani_flightefficiency-aircraftperformance-sustainableaviation-activity-7337436494934032385-Rgy0/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) can be significant when considering long range flights.
 - A Hyderabad startup, [TakeMe2Space](https://www.linkedin.com/posts/prateeksaxena123_isro-techinnovation-india-activity-7338074956318027776-ANdh/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ&utm_campaign=whatsapp), has launched India’s first-ever thinking satellite.
 - 🛩️ Simulating Air Taxi Safety: [NASA’s Quadcopter in Ground Effect](https://www.linkedin.com/posts/jousefmurad_cfd-simulation-vtol-activity-7339286150794149892-LdSb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- 🚀 [Jet Engines](https://www.linkedin.com/posts/kiriti-rambhatla_aerospace-jetengines-aviation-activity-7347768825431412736-72qM/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ): The Unsung Titans Powering Aerospace & What’s Next
     
 ## Technical Tidbits 
 
